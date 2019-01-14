@@ -66,7 +66,3 @@ After copying and renaming `~/headers/koanXX_sample_koans.hpp` and
 1. Add the implementation file to `~/koans/CMakeLists.txt`
 2. Add the header file to `~/headers/all_koans.hpp`
 3. Enable and activate the new episode in `~/cppkoans.cpp`
-
-## Licence
-
-MIT License Copyright 2012 Torbjörn Klatt - opensource eht torbjoern minus klatt dot de
